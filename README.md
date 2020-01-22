@@ -1,4 +1,4 @@
-## Console comands applicacion
+## To-Do console commands application
 
 This app save tasks or lists of things in a .json file.
 Also you can add, edit, delete and show tasks.
